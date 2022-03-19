@@ -1,0 +1,45 @@
+body
+{
+  
+  background-color: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+.span
+{
+  background-color: white;
+  width: 370px;
+  height: 430px;
+  /*apply styles like padding, border radius ,box shadow to make the div appear like the one in image*/
+  padding:10px;
+  border-radius:20px;
+  box-shadow:5px 5px 5px blue;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+#camera, #result
+{
+  width: 350px;
+  height: 300px; 
+  background-color: black;
+  border-radius: 10px;
+
+}
